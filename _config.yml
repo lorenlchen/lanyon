@@ -20,5 +20,4 @@ paginate:         5
 # Custom vars
 version:          1.0.0
 
-github:
-  repo:           https://github.com/poole/lanyon
+github:           https://github.com/lorenlchen          
